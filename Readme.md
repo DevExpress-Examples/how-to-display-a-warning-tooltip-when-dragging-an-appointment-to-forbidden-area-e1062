@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/AptTooltipDrag/Form1.cs) (VB: [Form1.vb](./VB/AptTooltipDrag/Form1.vb))
+<!-- default file list end -->
 # How to display a warning tooltip when dragging an appointment to forbidden area
 
 
