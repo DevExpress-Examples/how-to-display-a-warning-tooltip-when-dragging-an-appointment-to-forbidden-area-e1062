@@ -19,7 +19,7 @@ To accomplish this task, two events (SchedulerControl.AppointmentDrag and Schedu
 
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-display-a-warning-tooltip-when-dragging-an-appointment-to-forbidden-area-e1062&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-display-a-warning-tooltip-when-dragging-an-appointment-to-forbidden-area-e1062&~~~was_helpful=no)
 
